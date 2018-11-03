@@ -1,0 +1,6 @@
+Journal.json
+pipenv/
+export/
+photos/
+.vscode/
+.DS_Store
